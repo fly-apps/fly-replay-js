@@ -1,0 +1,14 @@
+{
+  "name": "fly-replay-js-apps",
+  "description": "A VanillaJS app demonstrating how to use the fly-replay HTTP header between 2 Fly Apps deployed from this JS app",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.5.7"
+  }
+}
