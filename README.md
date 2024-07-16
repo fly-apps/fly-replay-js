@@ -10,6 +10,10 @@ Dynamic Request Routing: https://fly.io/docs/networking/dynamic-request-routing/
 
 Multi-region databases and `fly-replay`: https://fly.io/docs/blueprints/multi-region-fly-replay/
 
+Multi-tenant apps with single-tenant SQLite databases in global Tigris buckets (relies on the fly-replay): https://fly.io/javascript-journal/single-tenant-sqlite-in-tigris/
+
+Real-Time Collaboration with Replicache and Fly-Replay: https://fly.io/blog/replicache-machines-demo/
+
 Fly.io .internal DNS: https://fly.io/docs/networking/private-networking/ 
 
 ## Steps to run the demo
